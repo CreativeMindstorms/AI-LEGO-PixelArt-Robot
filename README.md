@@ -34,7 +34,7 @@ This code was last succesfully tested on 6/15/2024.
 
 ### Some things to note
 - You will need to get your own OpenAI API key and rename the variable in the "imageGenerator.py" file.
-- You can define the usable colors by changing the list "colors_bgr" and "colors_stock" in "main (NO Mindstorms).py" and "recipe" in "imageFunctions.py". They are in the correct order from furthest away from the bed to closest by the bed.
+- You can define the usable colors by changing the list "colors_bgr" and "colors_stock" in "main (NO Mindstorms).py" and "recipe" in "imageFunctions.py".
 
 ### Some things that can be changed
 - You can switch whether you want to use a custom image or use the image generator with the variable "useAI" in "main (NO Mindstorms).py".

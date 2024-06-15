@@ -7,6 +7,8 @@ I don't normally use GitHub so please let me know if the way I set things up is 
 
 The code generates pixelart using OpenAI's Dall-E 3 and controls a Lego Pixelart machine using Mindstorms.
 It was meant for personal use, so it will not work right away and it will need many changes.
+I am not updating this project, so libraries like openai might get outdated.
+This code was last succesfully tested on 6/15/2024.
 
 
 ## For use of "main.py"

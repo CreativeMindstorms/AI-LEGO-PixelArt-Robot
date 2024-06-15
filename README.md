@@ -5,7 +5,9 @@ https://youtu.be/ec_BtS97IR8
 
 I don't normally use GitHub so please let me know if the way I set things up is incorrect.
 
-The code was meant for personal use, so it will not work right away and it will need many changes.
+The code generates pixelart using OpenAI's Dall-E 3 and controls a Lego Pixelart machine using Mindstorms.
+It was meant for personal use, so it will not work right away and it will need many changes.
+
 
 ## For use of "main.py"
 
@@ -24,6 +26,7 @@ The code was meant for personal use, so it will not work right away and it will 
 - "usepixelation" in "main.py" changes the code to either scale images down to the desired size or pick the center point of a grid to create a crisp pixelart.
 - "useOverlay" in "main.py" switches on or off the Lego overlay on the final image.
 - You can define how many usable pixels are in the hoppers, before it prompts you to refill the hoppers, by changing the "color_amount" variable in "main.py".
+
 
 ## For use of "main (NO Mindstorms).py"
 

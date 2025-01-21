@@ -1,9 +1,9 @@
 # AI-LEGO-PixelArt-Robot
 
 This is the code for my AI Lego pixelart robot, as seen on my YouTube channel:
-https://youtu.be/ec_BtS97IR8
-
-I don't normally use GitHub so please let me know if the way I set things up is incorrect.
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=ec_BtS97IR8"><img src="https://img.youtube.com/vi/ec_BtS97IR8/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 The code generates pixelart using OpenAI's Dall-E 3 and controls a Lego Pixelart machine using Mindstorms.
 It was meant for personal use, so it will not work right away and it will need many changes.

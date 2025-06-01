@@ -10,7 +10,7 @@ It was meant for personal use, so it will not work right away and it will need m
 I am not updating this project, so libraries like openai might get outdated.
 This code was last succesfully tested on 6/15/2024.
 
-If you enjoy what I do and would like to support future creations, consider [buying me a coffee](https://buymeacoffee.com/creativemindstorms)!
+If you enjoy what I do and would like to support future creations, consider buying me a [🧱 Lego brick](https://buymeacoffee.com/creativemindstorms)!
 
 Every contribution helps fund new machines and videos on YouTube!
 
